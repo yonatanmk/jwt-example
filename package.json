@@ -1,0 +1,19 @@
+{
+  "name": "jwt-example",
+  "version": "1.0.0",
+  "description": "An egghead tutorial project for setting up JSON Web Token Authentication in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonatanmk/jwt-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonatanmk/jwt-example/issues"
+  },
+  "homepage": "https://github.com/yonatanmk/jwt-example#readme"
+}
