@@ -8,3 +8,7 @@ Set PORT with `export PORT=<<port number>>` from ROOT, otherwise PORT will defau
 e.g. export `PORT=3000`
 
 Run server with `node .` from ROOT
+
+
+## Links:
+https://jwt.io/
